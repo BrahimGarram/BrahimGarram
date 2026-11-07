@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ANIMÉ ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Brahim%20Garram&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=%C3%89tudiant%20Ing%C3%A9nieur%20G%C3%A9nie%20Logiciel%20%E2%80%A2%20.NET%20%E2%80%A2%20DevOps%20%E2%80%A2%20IA&descAlignY=56&descSize=17" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Brahim%20Garram&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=%C3%89tudiant%20Ing%C3%A9nieur%20G%C3%A9nie%20Logiciel%20%E2%80%A2%20Java%20Spring%20Boot%20%E2%80%A2%20DevOps%20%E2%80%A2%20IA&descAlignY=56&descSize=17" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/BrahimGarram">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+je+suis+Mohamed+Brahim+Garram;%C3%89tudiant+ing%C3%A9nieur+en+G%C3%A9nie+Logiciel+%40+ESPRIT;Passionn%C3%A9+par+.NET%2C+DevOps+et+l'IA+g%C3%A9n%C3%A9rative;Agents+IA+%E2%80%A2+LLM+%E2%80%A2+RAG+%E2%80%A2+LangGraph;%C3%80+la+recherche+d'un+stage+de+fin+d'%C3%A9tudes+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+je+suis+Mohamed+Brahim+Garram;%C3%89tudiant+ing%C3%A9nieur+en+G%C3%A9nie+Logiciel+%40+ESPRIT;Passionn%C3%A9+par+Java+Spring+Boot%2C+DevOps+et+l'IA;Agents+IA+%E2%80%A2+LLM+%E2%80%A2+RAG+%E2%80%A2+LangGraph;%C3%80+la+recherche+d'un+stage+de+fin+d'%C3%A9tudes+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,14 +23,16 @@
 
 ## 🧑‍💻 À propos de moi
 
-```csharp
-public class MohamedBrahimGarram
-{
-    public string Statut      => "Étudiant ingénieur en Génie Logiciel (dernière année) @ ESPRIT";
-    public string Recherche   => "Stage de fin d'études — Ingénierie logicielle / DevOps";
-    public string[] Passions  => new[] { ".NET", "DevOps", "IA générative", "Agents LLM" };
-    public string[] Langues   => new[] { "Français (B2)", "Anglais (B2)" };
-    public string[] Qualités  => new[] { "Autonome", "Curieux", "Esprit d'équipe (Scrum)" };
+```java
+@Component
+public class MohamedBrahimGarram {
+
+    private final String statut    = "Étudiant ingénieur en Génie Logiciel (dernière année) @ ESPRIT";
+    private final String recherche = "Stage de fin d'études — Ingénierie logicielle / DevOps";
+
+    private final List<String> passions = List.of("Java", "Spring Boot", "DevOps", "IA générative", "Agents LLM");
+    private final List<String> langues  = List.of("Français (B2)", "Anglais (B2)");
+    private final List<String> qualites = List.of("Autonome", "Curieux", "Esprit d'équipe (Scrum)");
 }
 ```
 
@@ -46,12 +48,12 @@ public class MohamedBrahimGarram
 
 ### 💻 Langages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,py,ts,js,php,dart,c,cpp,html,css&perline=11" />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,ts,js,php,dart,c,cpp,html,css&perline=11" />
 </p>
 
 ### ⚙️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,angular,fastapi,symfony,flutter&perline=11" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,fastapi,dotnet,symfony,flutter&perline=11" />
 </p>
 
 ### 🗄️ Bases de données
