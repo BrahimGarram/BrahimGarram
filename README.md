@@ -201,8 +201,12 @@ Gestion de cinéma en **Web & Desktop**.
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrahimGarram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimGarram&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrahimGarram&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrahimGarram&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrahimGarram&theme=tokyonight" />
 </p>
 
 <p align="center">
